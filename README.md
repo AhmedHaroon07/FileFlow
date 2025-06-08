@@ -34,7 +34,7 @@ FileFlow is a lightweight file management API with a minimalistic web interface,
 ### 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/fileflow.git
+git clone https://github.com/AhmedHaroon07/fileflow.git
 cd fileflow
 pip install -r requirements.txt
 ```
