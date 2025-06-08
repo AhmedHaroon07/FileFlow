@@ -22,18 +22,16 @@ FileFlow is a lightweight file management API with a minimalistic web interface,
 🚀 Getting Started
 
 
-<i>Prerequisites</i><br>
-<li>Python 3.7+</li>
-<li>Flask</li>
-<br><br>
-<i>Installation</i>
+### 🔧 Prerequisites
+- Python 3.7+
+- Flask
 
-git clone https://github.com/yourusername/fileflow.git<br>
-cd fileflow<br>
-pip install -r requirements.txt<br>
+### 🚀 Installation
 
-<i>Running the Application</i><br>
-python app.py
+```bash
+git clone https://github.com/yourusername/fileflow.git
+cd fileflow
+pip install -r requirements.txt
 
 
 
