@@ -1,7 +1,8 @@
-📁 FileFlow
+<h1>📁 FileFlow</h1>
 FileFlow is a lightweight file management API with a minimalistic web interface, enabling seamless file operations such as upload, search, download, rename, delete, and info retrieval. It’s perfect for developers who need a simple way to interact with server-side files through both browser and API.
 
-✨ Features
+<h2>✨ Features</h2>
+
 🔍 Search files by name
 
 ⬆️ Upload files through the web interface
@@ -19,12 +20,12 @@ FileFlow is a lightweight file management API with a minimalistic web interface,
 ✅ RESTful API integration ready
 
 🚀 Getting Started
-Prerequisites
-Python 3.7+
 
-Flask
+<i>Prerequisites</i>
+<li>Python 3.7+</li>
+<li>Flask</li>
 
-Installation
+<i>Installation</i>
 bash
 Copy
 Edit
