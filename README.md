@@ -37,12 +37,15 @@ python app.py
 
 
 
-📬 API Endpoints
-Method	Endpoint	Description
-GET	/	Web UI with search
-POST	/upload_file	Upload a file
-POST	/select_file	Select file by name
-POST	/rename_file	Rename a file
-POST	/delete_file	Delete a file
-GET	/download_file	Download file
-GET	/file_info	Get file metadata
+### 📬 API Endpoints
+
+| Method | Endpoint       | Description         |
+|--------|----------------|---------------------|
+| GET    | `/`            | Web UI with search  |
+| POST   | `/upload_file` | Upload a file       |
+| POST   | `/select_file` | Select file by name |
+| POST   | `/rename_file` | Rename a file       |
+| POST   | `/delete_file` | Delete a file       |
+| GET    | `/download_file` | Download file    |
+| GET    | `/file_info`   | Get file metadata   |
+
