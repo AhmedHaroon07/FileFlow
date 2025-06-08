@@ -32,5 +32,5 @@ git clone https://github.com/yourusername/fileflow.git<br>
 cd fileflow<br>
 pip install -r requirements.txt<br>
 
-<i>Running the Application</i>
+<i>Running the Application</i><br>
 python app.py
