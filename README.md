@@ -1,6 +1,6 @@
 <img src="/static/logo.png" width="196" />
 
-<div align="left">
+<div align="right">
 <h1>FileFlow</h1>
 FileFlow is a lightweight file management API with a minimalistic web interface, enabling seamless file operations such as upload, search, download, rename, delete, and info retrieval. It’s perfect for developers who need a simple way to interact with server-side files through both browser and API.
 </div>
